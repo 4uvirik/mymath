@@ -1,4 +1,4 @@
-module 1_Settings
+module github.com/4uvirik/mymath
 
 go 1.24
 
